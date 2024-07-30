@@ -9,6 +9,7 @@
 👋 Hi, I’m Tanya Maryam<br>😁 I’m interested in Coding and Sports<br>❤ I’m currently learning Web Dev<br>😉 I’m looking to collaborate, I am always open to work on some cool projects and build the next great product together.<br>📫 <a>You can mail me here <a href="mailto:tanyamaryam27@gmail.com">tanyamaryam27@gmail.com</a> <br>⚡ Fun fact: Love Travelling 🌄
 
 
+
 [![](https://visitcount.itsvg.in/api?id=TanyaMaryam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
